@@ -2,10 +2,9 @@
   "name": "directus_npm_test",
   "version": "1.0.0",
   "description": "",
-  "main": "/api/index.js",
+  "main": "index.js",
   "scripts": {
     "start": "directus start",
-    "vercel-build": "npx directus start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
